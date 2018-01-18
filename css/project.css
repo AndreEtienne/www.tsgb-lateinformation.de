@@ -1,0 +1,15 @@
+#main article{
+  display: felx !important;
+  width: 100%;
+}
+.calendar{
+  display: flex;
+}
+@media screen and (max-width: 480px){
+  #wrapper{
+      padding: 0px;
+  }
+  #main article{
+      padding: 3rem 0rem 0.5rem 0rem;
+  }
+}

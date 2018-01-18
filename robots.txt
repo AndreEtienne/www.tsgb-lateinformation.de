@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.tsgb-lateinformation.de/sitemap.xml
